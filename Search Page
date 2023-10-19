@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Page</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <h1><a href="Yumidylogo.png">Yumidy</a></h1>
+            <form role="search">
+                <button type="submit">Хайх</button>
+                <input type="search" placeholder="Рестораны нэр/хоол">
+                </form>
+        </nav>
+    </header>
+</body>
+</html>
